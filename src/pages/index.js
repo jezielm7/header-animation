@@ -56,7 +56,7 @@ const Home = () => {
         }],
           { useNativeDriver: false })}
       >
-        <View style={styles.box}></View>
+        <View style={styles.box}></View> 
         <View style={styles.box}></View>
         <View style={styles.box}></View>
         <View style={styles.box}></View>
